@@ -11,3 +11,9 @@ Udacity's Google Developer Challenger Scholarship - Front End Web Development
 
 ```
 
+## Project 1: Animal-trading-cards
+
+First project in Google Developer Scholarship. This Project Passed on HTML, CSS languages. Small Project Describe The Barn Owl, Average Length, Average lifespan, Habitat.
+
+![1-Animal-Trading-Cards](./img/1-Animal-Trading-Cards.png)
+
