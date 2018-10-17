@@ -19,7 +19,7 @@ GitHub repository: https://github.com/Yuribenjamin/Animal-trading-cards
 
 ![1-Animal-Trading-Cards](./img/1-Animal-Trading-Cards.png)
 
-<br>
+<br/>
 
 ## Project 2: Mockup-portfolio
 
@@ -27,8 +27,8 @@ Second Project in Google Developer Scholarship. Small project passed on Html, Cs
 
 GitHub repository: https://github.com/Yuribenjamin/Mockup-portfolio
 
-![2-Mockup](./img/2-Mockup)
+![2-Mockup](./img/2-Mockup.png)
 
-<br>
+<br/>
 
 
