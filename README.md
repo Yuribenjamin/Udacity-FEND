@@ -64,3 +64,12 @@ GitHub repository:  https://github.com/Yuribenjamin/restaurant-reviews
 
 ![6-Restaurant](./img/6-Restaurant.jpg)
 
+
+## Project 7: MyReads
+
+For the MyReads projects, The starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save the time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project, also In the MyReads project, I created a bookshelf app that allows the user to select and categorize books they have - read - currently reading - want to read, using React to build the application and provides an API server and client library.
+
+GitHub repository: https://github.com/Yuribenjamin/myreads
+
+![7-MyReads](./img/7-MyReads.png)
+
