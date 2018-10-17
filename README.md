@@ -37,3 +37,13 @@ GitHub repository: https://github.com/Yuribenjamin/memory-game
 
 ![3-Matching-Game](./img/3-Matching-Game.png)
 
+
+## Project 4: Arcade Game
+
+Classic arcade game clone project 4 in Google Developer Scholarship passed on OOJS & Canvas.
+
+GitHub repository: https://github.com/Yuribenjamin/arcade-game
+
+![4-Effective-JavaScript-Frogger](./img/4-Effective-JavaScript-Frogger.png)
+
+
