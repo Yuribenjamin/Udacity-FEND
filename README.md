@@ -47,3 +47,12 @@ GitHub repository: https://github.com/Yuribenjamin/arcade-game
 ![4-Effective-JavaScript-Frogger](./img/4-Effective-JavaScript-Frogger.png)
 
 
+## Project 5: Feed Reader Testing
+
+Feed Reader Testing project 5 in Google Developer Scholarship a web-based application that reads RSS feeds, the project must passing all the required test suites using Jasmine framework.
+
+GitHub repository: https://github.com/Yuribenjamin/feed-reader-testing
+
+![5-Feed-Reader-Testing](./img/5-Feed-Reader-Testing.png)
+
+
