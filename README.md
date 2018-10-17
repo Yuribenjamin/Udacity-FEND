@@ -62,5 +62,5 @@ For the Restaurant Reviews projects, incrementally convert a static webpage to a
 
 GitHub repository:  https://github.com/Yuribenjamin/restaurant-reviews
 
-![6-Restaurant](./img/6-Restaurant.png)
+![6-Restaurant](./img/6-Restaurant.jpg)
 
