@@ -19,7 +19,6 @@ GitHub repository: https://github.com/Yuribenjamin/Animal-trading-cards
 
 ![1-Animal-Trading-Cards](./img/1-Animal-Trading-Cards.png)
 
-<br/>
 
 ## Project 2: Mockup-portfolio
 
@@ -29,6 +28,12 @@ GitHub repository: https://github.com/Yuribenjamin/Mockup-portfolio
 
 ![2-Mockup](./img/2-Mockup.png)
 
-<br/>
 
+## Project 3: Memory Game
+
+Memory game is a matching game, containing of 16 cards, the goal is to matching up 8 pairs, you can only open two cards at the same time, if you success the game is over!
+
+GitHub repository: https://github.com/Yuribenjamin/memory-game
+
+![3-Matching-Game](./img/3-Matching-Game.png)
 
