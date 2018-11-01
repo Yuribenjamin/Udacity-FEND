@@ -86,9 +86,9 @@ GitHub repository: https://github.com/Yuribenjamin/myreads
 
 This project is a final project in Udacity's Google Developer Challenger Scholarship - Front End Web Development, also the part of Udacity's React Fundamentals course, that display a map for various locations to coffe cafes in cairo, egypt where you get your best coffee, the project is a single page app using react framework and this map has a several functionalities, like highlighted locations, third-party data about loctions and more.
 
-GitHub repository: https://github.com/Yuribenjamin/neighborhood-map
-
 [Live Perview](https://yuribenjamin.github.io/neighborhood-map/)
+
+GitHub repository: https://github.com/Yuribenjamin/neighborhood-map
 
 ![8-neighborhood-map](./img/8-neighborhood-map.png)
 
