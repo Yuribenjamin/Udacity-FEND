@@ -68,6 +68,7 @@ GitHub repository: https://github.com/Yuribenjamin/feed-reader-testing
 
 For the Restaurant Reviews projects, incrementally convert a static webpage to a mobile-ready web application. take a static design that lacks accessibility and convert the design to be responsive on different sized displays and accessible for screen reader use. also add a service worker to begin the process of creating a seamless offline experience for your users.
 
+[Live Perview](https://yuribenjamin.github.io/restaurant-reviews/)
 GitHub repository:  https://github.com/Yuribenjamin/restaurant-reviews
 
 ![6-Restaurant](./img/6-Restaurant.jpg)
