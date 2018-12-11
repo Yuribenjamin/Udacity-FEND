@@ -48,7 +48,7 @@ GitHub repository: https://github.com/Yuribenjamin/memory-game
 
 Classic arcade game clone project 4 in Google Developer Scholarship passed on OOJS & Canvas.
 
-[Live Perview](https://github.com/Yuribenjamin/arcade-game)
+[Live Perview](https://yuribenjamin.github.io/arcade-game/)
 
 GitHub repository: https://github.com/Yuribenjamin/arcade-game
 
